@@ -1,0 +1,1 @@
+ nonce="YGt5VY99M+upCBxYAuq8tBDPS6I&#x2F;PZlxEjYHR7HKQCfYENyL" src="https:&#x2F;&#x2F;www.paypal.com&#x2F;sdk&#x2F;js?client-id=sb" data-stage-host="www.paypal.com" data-api-stage-host="msmaster.qa.paypal.com";
